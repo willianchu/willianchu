@@ -8,8 +8,8 @@ I love programming, the logic of things, putting things together and making uniq
 
  <div>
   <a href="https://github.com/willianchu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianchu&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianchu&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianchu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianchu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -37,10 +37,10 @@ I love programming, the logic of things, putting things together and making uniq
 
 
 <a href="https://github.com/willianchu/Game-Final">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repogithub.com/willianchu/Game-Final&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&Game-Final&theme=dracula" />
 </a>
 <a href="https://github.com/willianchu/jungle-rails">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=jungle-rails&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=jungle-rails&theme=dracula" />
 </a>
  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=willianchu&repo=willianchu&countColorcountColor)
 
