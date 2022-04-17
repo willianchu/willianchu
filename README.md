@@ -37,7 +37,7 @@ I love programming, the logic of things, putting things together and making uniq
 
 
 <a href="https://github.com/willianchu/Game-Final">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&Game-Final&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=Game-Final&theme=dracula" />
 </a>
 <a href="https://github.com/willianchu/jungle-rails">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=jungle-rails&theme=dracula" />
