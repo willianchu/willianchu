@@ -18,9 +18,9 @@ I love programming, the logic of things, putting things together and making uniq
   <img align="center" alt="willianchu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="willianchu-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="willianchu-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="willianchu-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="willianchu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="willianchu-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
- <img align="center" alt="willianchu-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="willianchu-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
@@ -41,6 +41,12 @@ I love programming, the logic of things, putting things together and making uniq
 </a>
 <a href="https://github.com/willianchu/jungle-rails">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=jungle-rails&theme=dracula" />
+</a>
+ <a href="https://github.com/willianchu/Mid-Term-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=Mid-Term-Project&theme=dracula" />
+</a>
+ <a href="https://github.com/willianchu/scheduler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=scheduler&theme=dracula" />
 </a>
  
  
