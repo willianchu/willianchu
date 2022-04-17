@@ -42,5 +42,7 @@ I love programming, the logic of things, putting things together and making uniq
 <a href="https://github.com/willianchu/jungle-rails">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=jungle-rails&theme=dracula" />
 </a>
+ 
+ 
  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=willianchu&repo=willianchu&countColorcountColor)
 
