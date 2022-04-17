@@ -4,6 +4,7 @@
 After years of working in retail sales, I was always excited about solving IT issues. I realized that I really like to identify patterns and solve problems.
 As a Full-Stack Web Developer, I feel like I'm doing what my being was designed to be.
 I love programming, the logic of things, putting things together and making unique poetry.
+Today I'm working as full stack webdeveloper.
 
 
  <div>
@@ -26,9 +27,12 @@ I love programming, the logic of things, putting things together and making uniq
   ##
  
 <div> 
-  <a href = "mailto:willianchu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:willianchu@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:willianchu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willianchu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discordapp.com/users/Willianchu#2879" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://lighthouse.slack.com/team/U039L2AUWA2" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+ 
  
  ![Snake animation](https://github.com/willianchu/willianchu/blob/output/github-contribution-grid-snake2.svg)
 </div>
