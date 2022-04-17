@@ -33,5 +33,14 @@ I love programming, the logic of things, putting things together and making uniq
  ![Snake animation](https://github.com/willianchu/willianchu/blob/output/github-contribution-grid-snake2.svg)
 </div>
    
+ #### Top Repositories
+
+
+<a href="https://github.com/willianchu/Game-Final">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repogithub.com/willianchu/Game-Final&theme=buefy" />
+</a>
+<a href="https://github.com/willianchu/jungle-rails">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willianchu&repo=jungle-rails&theme=buefy" />
+</a>
  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=willianchu&repo=willianchu&countColorcountColor)
 
