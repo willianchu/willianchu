@@ -27,11 +27,10 @@ I love programming, the logic of things, putting things together and making uniq
 <div> 
   <a href = "mailto:willianchu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willianchu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://discordapp.com/users/Willianchu#2879" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
  ![Snake animation](https://github.com/Sutil/Sutil/blob/output/github-contribution-grid-snake2.svg)
 </div>
- 
- Do want to have an animation like that in your profile? [Check it!](https://github.com/Sutil/snk)
- 
+   
  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sutil&repo=Sutil&countColorcountColor)
 
