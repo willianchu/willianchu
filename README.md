@@ -2,7 +2,7 @@
 ## Hello World! I'm Willian Chu! 🍁Vancouver
 
 After years of working in retail sales, I was always excited about solving IT issues. I realized that I really like to identify patterns and solve problems.
-As a Full-Stack Web Developer, I feel like I'm doing what my being was designed to be.
+I feel like I'm doing what my being was designed to be.
 I love programming, the logic of things, putting things together and making unique poetry.
 Today I'm working as full stack webdeveloper.
 
