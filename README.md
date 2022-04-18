@@ -8,7 +8,7 @@ Today I'm working as full stack webdeveloper.
 
 <div align="center">
   <a href="https://github.com/willianchu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianchu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianchu&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianchu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
