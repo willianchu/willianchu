@@ -6,8 +6,7 @@ I feel like I'm doing what my being was designed to be.
 I love programming, the logic of things, putting things together and making unique poetry.
 Today I'm working as full stack webdeveloper.
 
-
- <div>
+<div align="center">
   <a href="https://github.com/willianchu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianchu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianchu&layout=compact&langs_count=7&theme=dracula"/>
