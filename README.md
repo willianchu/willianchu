@@ -21,7 +21,7 @@ Today I'm working as full stack webdeveloper.
   <img align="center" alt="willianchu-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="willianchu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="willianchu-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="willianchu-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/devicon)/master/icons/java/java-original.svg">
+  <img align="center" alt="willianchu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
   
